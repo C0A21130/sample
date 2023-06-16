@@ -1,0 +1,15 @@
+body {
+  backgrond: lightcyan;
+  width: 800px;
+}
+
+h1 {
+  color: maron;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  border: 1px solid gray;
+  padding: 10px;
+}
